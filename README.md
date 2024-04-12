@@ -1,11 +1,11 @@
 
 <p align="center">
-<!-- <img src="assets/Profile%20Banner.gif" alt="Savan Gadhiya's Profile Banner" /> -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Playball&color=14E3F7FF&size=45&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+Savan+Gadhiya's+Github+Profile..." alt="Savan Gadhiya's Profile Banner" />
+<!-- <img src="assets/Profile%20Banner.gif" alt="Deep Kalathiya's Profile Banner" /> -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Playball&color=14E3F7FF&size=45&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+Savan+Gadhiya's+Github+Profile..." alt="Deep Kalathiya's Profile Banner" />
 </p>
 
 
-<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Savan Gadhiya</h2></p>
+<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Deep Kalathiya</h2></p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 ---
@@ -14,7 +14,7 @@
 ✍️ &nbsp;In my free time, I am mostly adding new skills to my repertoire and sometimes open-sourcing. -->
 <!-- ✉️ &nbsp;You can shoot me an email at savangadhiya7623@gmail.com! I'll try to respond as soon as I can. -->
 
-👋 Welcome to my GitHub profile! I'm Savan Gadhiya, a dedicated Full Stack Developer with a passion for crafting efficient solutions and tackling challenges head-on. With a year of hands-on experience, I bring expertise in MERN (MongoDB, Express.js, React.js, Node.js) stack development to my skill set.
+👋 Welcome to my GitHub profile! I'm Deep Kalathiya, a dedicated Full Stack Developer with a passion for crafting efficient solutions and tackling challenges head-on. With a year of hands-on experience, I bring expertise in MERN (MongoDB, Express.js, React.js, Node.js) stack development to my skill set.
 
 🚀 In my recent role, I've driven innovation in backend development, developing features, optimizing codebases, and swiftly troubleshooting bugs. Through effective communication with cross-functional teams like QA testers and product managers, I ensure alignment on project goals, resulting in top-notch solutions meeting technical and business objectives.
 
@@ -33,7 +33,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 \
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -56,11 +55,11 @@
 <p align="center">
 <a href="https://github.com/savan-gadhiya" target="_blank">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Savan-Gadhiya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ddd7&hide_border=false&border_color=FFFFFF"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savan-gadhiya&layout=compact&hide=handlebars&theme=algolia&bg_color=0D1117&hide_border=false&&title_color=00ddd7&border_color=FFFFFF" alt="Savan Gadhiya's most used languages"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savan-gadhiya&layout=compact&hide=handlebars&theme=algolia&bg_color=0D1117&hide_border=false&&title_color=00ddd7&border_color=FFFFFF" alt="Deep Kalathiya's most used languages"/>
 </p>
 <br />
 <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Savan-gadhiya&theme=dark&background=0D1117&hide_border=&border_color=FFFFFF&ring=00DDD7&fire=00DDD7&stroke=F1F1F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00DDD7&dates=CACACA" alt="Savan Gadhiya's streaks" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Savan-gadhiya&theme=dark&background=0D1117&hide_border=&border_color=FFFFFF&ring=00DDD7&fire=00DDD7&stroke=F1F1F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00DDD7&dates=CACACA" alt="Deep Kalathiya's streaks" />
 </p>
 </a>
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=savan-gadhiya&theme=react-dark&hide_border=false" /> -->
@@ -74,4 +73,4 @@
     <a href="https://www.linkedin.com/in/savangadhiya/" target="_blank"><img src="https://img.shields.io/badge/-Savan%20Gadhiya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=savan-gadhiya&label=Profile%20views&color=0e75b6&style=plastic" alt="Savan Gadhiya's profile view count" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=savan-gadhiya&label=Profile%20views&color=0e75b6&style=plastic" alt="Deep Kalathiya's profile view count" /> </p>
