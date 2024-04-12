@@ -1,7 +1,7 @@
 
 <p align="center">
 <!-- <img src="assets/Profile%20Banner.gif" alt="Deep Kalathiya's Profile Banner" /> -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Playball&color=14E3F7FF&size=45&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+Savan+Gadhiya's+Github+Profile..." alt="Deep Kalathiya's Profile Banner" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Playball&color=14E3F7FF&size=45&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+Deep+Kalathiya's+Github+Profile..." alt="Deep Kalathiya's Profile Banner" />
 </p>
 
 
