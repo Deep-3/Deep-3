@@ -70,7 +70,7 @@
 ---
 <br />
 <p align="center">
-    <a href="https://www.linkedin.com/in/deep-kalathiya-245b9b228" target="_blank"><img src="https://img.shields.io/badge/-Savan%20Gadhiya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/deep-kalathiya-245b9b228" target="_blank"><img src="https://img.shields.io/badge/-Deep%20Kalathiya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=savan-gadhiya&label=Profile%20views&color=0e75b6&style=plastic" alt="Deep Kalathiya's profile view count" /> </p>
