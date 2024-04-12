@@ -53,8 +53,8 @@
 <br />
 
 <p align="center">
-<a href="https://github.com/savan-gadhiya" target="_blank">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Savan-Gadhiya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ddd7&hide_border=false&border_color=FFFFFF"/>
+<a href="https://github.com/Deep-3" target="_blank">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Deep-3&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ddd7&hide_border=false&border_color=FFFFFF"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savan-gadhiya&layout=compact&hide=handlebars&theme=algolia&bg_color=0D1117&hide_border=false&&title_color=00ddd7&border_color=FFFFFF" alt="Deep Kalathiya's most used languages"/>
 </p>
 <br />
@@ -70,7 +70,7 @@
 ---
 <br />
 <p align="center">
-    <a href="https://www.linkedin.com/in/savangadhiya/" target="_blank"><img src="https://img.shields.io/badge/-Savan%20Gadhiya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/deep-kalathiya-245b9b228" target="_blank"><img src="https://img.shields.io/badge/-Savan%20Gadhiya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=savan-gadhiya&label=Profile%20views&color=0e75b6&style=plastic" alt="Deep Kalathiya's profile view count" /> </p>
