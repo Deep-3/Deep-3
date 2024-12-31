@@ -31,7 +31,13 @@
 ---
 
 ## 📊 **GitHub Analytics**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deep-3&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deep-3&layout=compact&theme=dark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deep-3&theme=dark)
+
+### Stats & Streak
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deep-3&show_icons=true&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deep-3&theme=dark)
+
+### Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deep-3&layout=compact&theme=dark)
 
 ---
 
