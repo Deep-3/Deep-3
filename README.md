@@ -30,13 +30,6 @@
 
 ---
 
-## 🧠 **Coding Stats**
-![LeetCode Stats](https://leetcard.jacoblin.cool/Deep-3?theme=dark&font=Montserrat)  
-
-**"Every line of code is an opportunity to create something meaningful."** ✨  
-
----
-
 ## 📊 **GitHub Analytics**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deep-3&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deep-3&layout=compact&theme=dark)  
@@ -45,21 +38,21 @@
 ---
 
 ## 📊 **Tech Stack**
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)  
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-333?style=flat&logo=express)  
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)  
-![Sequelize](https://img.shields.io/badge/-Sequelize-333?style=flat&logo=sequelize)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)  
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)  
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)  
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)  
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2b%2b)  
-![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=c-sharp)  
-![Go](https://img.shields.io/badge/-Go-333?style=flat&logo=go)  
-![Rust](https://img.shields.io/badge/-Rust-333?style=flat&logo=rust)  
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+- ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+- ![Express.js](https://img.shields.io/badge/-Express.js-333?style=flat&logo=express)
+- ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+- ![Sequelize](https://img.shields.io/badge/-Sequelize-333?style=flat&logo=sequelize)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)
+- ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+- ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+- ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+- ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+- ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2b%2b)
+- ![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=c-sharp)
+- ![Go](https://img.shields.io/badge/-Go-333?style=flat&logo=go)
+- ![Rust](https://img.shields.io/badge/-Rust-333?style=flat&logo=rust)
 
 ---
 
